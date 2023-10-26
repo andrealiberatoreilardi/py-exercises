@@ -35,3 +35,5 @@ Dear <first_name>,
 
 Today is <full_name_1>, <full_name_2> and <full_name_3>'s birthday.
 Don't forget to send them a message !
+
+Utilizzando unittest testare se effettivamente l'invio dell'email funziona
